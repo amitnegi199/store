@@ -14,7 +14,7 @@ public class HelloController
     @GetMapping("/hello")
     public String sayHello()
     {
-        return "Hello world india negi";
+        return "Hello world indianegi";
     }
 
     //@GetMapping("/user")
